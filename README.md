@@ -1,5 +1,5 @@
 # Real_World_Reconnaissance (Spring 2020)
-I Perform a Passive Reconnaissance on a real company and founds lots of juicy info! (Obsfuscated here of course!)
+I Performed a Passive Reconnaissance on a real company and founds lots of juicy info! (Obsfuscated here of course!)
 
 This coursework helped me replicate the **4ttack3r m1nds3t !**
 
