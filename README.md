@@ -1,4 +1,4 @@
-# Real_World_Reconnaissance
+# Real World Reconnaissance
 ## Network Security Practices (Spring 2020)
 I Performed a Passive Reconnaissance on a real company and founds lots of juicy info! (Obfuscated here of course!)
 
